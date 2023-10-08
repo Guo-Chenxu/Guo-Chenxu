@@ -25,11 +25,6 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-![亮色](https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake.svg)
-
-![暗色](https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake-dark.svg)
-
-
   <!-- 每日一句 -->
   <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -77,30 +72,3 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guo-Chenxu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 </div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
-
-<table>
-
-<tr><td>
-
-<!-- wakatime 统计 -->
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Guo-Chenxu&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Guo-Chenxu&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Guo-Chenxu&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-</table>
-

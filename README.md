@@ -32,11 +32,14 @@
 
 </div>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
+
 <div align="center" >
 
 <!--  skill badge 技能徽章 -->
 
-💪 我的技能
+### 💪 我的技能
 
 ![Java Badge](https://img.shields.io/badge/Java-B07219?logo=java&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
@@ -45,7 +48,7 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-1A5762?logo=mysql&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 
-🧰 常用的工具
+### 🧰 常用的工具
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)

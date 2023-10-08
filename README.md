@@ -129,8 +129,6 @@ Last Updated on 08/10/2023 01:17:32 UTC
 
 💪 我的技能
 
-<img src="https://skillicons.dev/icons?i=java" /><br>
-
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-555555?logo=c&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=fff&style=flat)
@@ -138,8 +136,6 @@ Last Updated on 08/10/2023 01:17:32 UTC
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 
 🧰 常用的工具
-
-<img src="https://skillicons.dev/icons?i=idea" /><br>
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
@@ -150,6 +146,8 @@ Last Updated on 08/10/2023 01:17:32 UTC
 ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
+
+<img src="https://skillicons.dev/icons?i=java,idea" /><br>
 
 <!-- just img 图片 -->
 

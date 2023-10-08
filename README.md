@@ -32,8 +32,6 @@
 
 </div>
 
-# 🙋 Hello
-
 <div align="center" >
 
 <!--  skill badge 技能徽章 -->

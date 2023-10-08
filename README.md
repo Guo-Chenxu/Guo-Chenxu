@@ -37,7 +37,7 @@
 <!--  skill badge 技能徽章 -->
 <center><font face="Microsoft YaHei" size=99 >💪 我的技能</font></center>
 
-## 💪 我的技能
+### 💪 我的技能
 
 ![Java Badge](https://img.shields.io/badge/Java-B07219?logo=java&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)

@@ -7,10 +7,6 @@
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-
-<img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/coding.gif" /><br>
-
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://www.chenxutalk.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;

@@ -20,19 +20,11 @@
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
-111
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake.svg" />
 </picture>
-
-c222
-
-  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/snake/github-contribution-grid-snake.svg" />
-  </div>
 
   <!-- 每日一句 -->
   <div align="center">

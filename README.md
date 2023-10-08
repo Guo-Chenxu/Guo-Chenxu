@@ -129,6 +129,7 @@ Last Updated on 08/10/2023 01:17:32 UTC
 
 💪 我的技能
 
+![Java Badge](https://img.shields.io/badge/Java-B07219?logo=java&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-555555?logo=c&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=fff&style=flat)
@@ -141,8 +142,10 @@ Last Updated on 08/10/2023 01:17:32 UTC
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Idea Badge](https://img.shields.io/badge/Idea-FD2D8D?logo=idea&logoColor=fff&style=flat)
+![Idea Badge](https://img.shields.io/badge/Idea-000000?logo=idea&logoColor=fff&style=flat)
 ![Goland Badge](https://img.shields.io/badge/Goland-A94FF7?logo=goland&logoColor=fff&style=flat)
-![Pycharm Badge](https://img.shields.io/badge/Pycharm-ECF74C?logo=pycharm&logoColor=fff&style=flat)
+![Pycharm Badge](https://img.shields.io/badge/Pycharm-13E596?logo=pycharm&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->

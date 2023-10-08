@@ -145,6 +145,7 @@ Last Updated on 08/10/2023 01:17:32 UTC
 ![Idea Badge](https://img.shields.io/badge/Idea-FD2D8D?logo=idea&logoColor=fff&style=flat)
 ![Idea Badge](https://img.shields.io/badge/Idea-000000?logo=idea&logoColor=fff&style=flat)
 ![Goland Badge](https://img.shields.io/badge/Goland-A94FF7?logo=goland&logoColor=fff&style=flat)
+![Goland Badge](https://img.shields.io/badge/Goland-000000?logo=goland&logoColor=fff&style=flat)
 ![Pycharm Badge](https://img.shields.io/badge/Pycharm-13E596?logo=pycharm&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
 

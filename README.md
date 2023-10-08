@@ -34,6 +34,48 @@
 
 # 🙋 Hello
 
+<div align="center" >
+
+<!--  skill badge 技能徽章 -->
+
+💪 我的技能
+
+![Java Badge](https://img.shields.io/badge/Java-B07219?logo=java&logoColor=fff&style=flat)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
+![C Badge](https://img.shields.io/badge/C-555555?logo=c&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-1A5762?logo=mysql&logoColor=fff&style=flat)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
+
+🧰 常用的工具
+
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Idea Badge](https://img.shields.io/badge/Idea-000000?logo=idea&logoColor=fff&style=flat)
+![Goland Badge](https://img.shields.io/badge/Goland-000000?logo=goland&logoColor=fff&style=flat)
+![Pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
+
+<!-- just img 图片 -->
+
+<img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/icon.png" /></div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
+
+<div align="center" >
+
+<!-- GitHub 数据统计 -->
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Guo-Chenxu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guo-Chenxu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+
+</div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
+
 <table>
 
 <tr><td>
@@ -108,42 +150,3 @@ Last Updated on 08/10/2023 01:17:32 UTC
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
-
-<div align="center" >
-
-<!--  skill badge 技能徽章 -->
-
-💪 我的技能
-
-![Java Badge](https://img.shields.io/badge/Java-B07219?logo=java&logoColor=fff&style=flat)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-555555?logo=c&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=fff&style=flat)
-![MySQL Badge](https://img.shields.io/badge/MySQL-1A5762?logo=mysql&logoColor=fff&style=flat)
-![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
-
-🧰 常用的工具
-
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Idea Badge](https://img.shields.io/badge/Idea-000000?logo=idea&logoColor=fff&style=flat)
-![Goland Badge](https://img.shields.io/badge/Goland-000000?logo=goland&logoColor=fff&style=flat)
-![Pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
-![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
-
-<!-- just img 图片 -->
-
-<img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/icon.png" /></div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
-
-<div align="center" >
-
-<!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Guo-Chenxu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guo-Chenxu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
-
-</div>

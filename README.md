@@ -22,11 +22,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake.svg" />
 </picture>
 
-  <!-- 每日一句 -->
-  <!-- <div align="center"> -->
-  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> -->
-  <!-- </div> -->
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->

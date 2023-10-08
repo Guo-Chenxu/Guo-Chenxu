@@ -35,7 +35,7 @@
 <div align="center" >
 
 <!--  skill badge 技能徽章 -->
-<center><font face="Microsoft YaHei" size=26 >💪 我的技能</font></center>
+<center><font face="Microsoft YaHei" size=99 >💪 我的技能</font></center>
 
 ## 💪 我的技能
 

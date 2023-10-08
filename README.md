@@ -25,6 +25,11 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+![亮色](https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake.svg)
+
+![暗色](https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake-dark.svg)
+
+
   <!-- 每日一句 -->
   <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />

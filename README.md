@@ -35,9 +35,8 @@
 <div align="center" >
 
 <!--  skill badge 技能徽章 -->
-<div>
-<center><font face="Microsoft YaHei" size=99 >💪 我的技能</font></center>
-</div>
+
+<span style="font-size: 26px;color: #3E89E2;"><strong>文本内容</strong></span>
 
 ### 💪 我的技能
 
@@ -48,7 +47,7 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-1A5762?logo=mysql&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 
-## 🧰 常用的工具
+### 🧰 常用的工具
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)

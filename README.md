@@ -39,6 +39,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-1A5762?logo=mysql&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-BA5000?logo=mongodb&logoColor=fff&style=flat)
 
 ### 🧰 常用的工具
 

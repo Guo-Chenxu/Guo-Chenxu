@@ -46,9 +46,9 @@
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Idea Badge](https://img.shields.io/badge/Idea-000000?logo=idea&logoColor=fff&style=flat)
-![Goland Badge](https://img.shields.io/badge/Goland-000000?logo=goland&logoColor=fff&style=flat)
-![Pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
+![Idea Badge](https://img.shields.io/badge/IDEA-000000?logo=Intellij%20IDEA&logoColor=fff&style=flat)
+![Goland Badge](https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=fff&style=flat)
+![Pycharm Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
 
 <!-- just img 图片 -->

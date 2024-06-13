@@ -1,0 +1,32 @@
+name: Update README Image Source
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout source code
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Generate random number
+      run: echo "RANDOM_ID=$((RANDOM % 1000 + 1))" >> $GITHUB_ENV
+
+    - name: Replace image source in README.md
+      run: |
+        python -c "from pathlib import Path; path = Path('README.md'); with path.open('r+') as file: content = file.read(); file.seek(0); file.write(content.replace(r'https://www\.loliapi\.com/acg(\?id=(\d+))?', f'https://www.loliapi.com/acg?id={env.RANDOM_ID}&', 1))"
+
+    - name: Commit and push if changed
+      run: |
+        git diff --quiet || (git commit -am "Update image source with new random ID" && git push)

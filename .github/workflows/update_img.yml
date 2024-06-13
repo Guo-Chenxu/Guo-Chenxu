@@ -20,12 +20,8 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Generate random number
-      run: echo "RANDOM_ID=$((RANDOM % 1000 + 1))" >> $GITHUB_ENV
-
-    - name: Replace image source in README.md
-      run: |
-        python -c "from pathlib import Path; path = Path('README.md'); with path.open('r+') as file: content = file.read(); file.seek(0); file.write(content.replace(r'https://www\.loliapi\.com/acg(\?id=(\d+))?', f'https://www.loliapi.com/acg?id={env.RANDOM_ID}&', 1))"
+    - name: Update Image
+      run: python update_img.py
 
     - name: Commit and push if changed
       run: |

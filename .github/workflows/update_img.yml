@@ -18,6 +18,16 @@ jobs:
     - name: Checkout source code
       uses: actions/checkout@v2
 
+    - name: Set git config
+      run: |
+        git config --global user.email "${{ env.git_email }}"
+        git config --global user.name "${{ env.git_name }}"
+
+    - name: Wait and merge new commit
+      run: |
+        sleep 60
+        git pull
+
     - name: Setup Python
       uses: actions/setup-python@v2
       with:
@@ -28,8 +38,6 @@ jobs:
 
     - name: Commit and push if changed
       run: |
-        git config --global user.email "${{ env.git_email }}"
-        git config --global user.name "${{ env.git_name }}"
-        git diff --quiet || (git commit -am "Update image source with new random ID" && git push)
+        git diff --quiet || (git commit -am "Update image source" && git push)
       env:
         ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}

@@ -26,3 +26,5 @@ jobs:
     - name: Commit and push if changed
       run: |
         git diff --quiet || (git commit -am "Update image source with new random ID" && git push)
+      env:
+        ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}

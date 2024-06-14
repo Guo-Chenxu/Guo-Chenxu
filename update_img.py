@@ -5,7 +5,7 @@ import time
 
 time.sleep(10)
 
-random_number = random.randint(1, 999)
+random_number = random.randint(900, 999)
 
 pattern = r'https://www\.loliapi\.com/acg(\?id=(\d+))?'
 replacement = f'https://www.loliapi.com/acg?id={random_number}'

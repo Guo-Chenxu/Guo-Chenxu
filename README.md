@@ -50,6 +50,7 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Idea Badge](https://img.shields.io/badge/IDEA-000000?logo=Intellij%20IDEA&logoColor=fff&style=flat)
 ![Goland Badge](https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=fff&style=flat)
+
 <!-- ![Pycharm Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat) -->
 
 <!-- just img 图片 -->
@@ -57,7 +58,7 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/icon.png" /></div> -->
 <!-- <img src="https://www.loliapi.com/acg?id=157" /></div> -->
 <picture>
-  <img alt="acg-img" src="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/acg/acg.png" />
+  <img alt="acg-img" src="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/acg/acg.webp" />
 </picture>
 
 <!-- ########################################## 分割 ########################################## -->

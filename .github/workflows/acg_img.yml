@@ -22,6 +22,9 @@ jobs:
 
     - name: Get ACG Image
       run: python get_image.py
+    
+    - name: Calculate Hash
+      run: md5sum img/*
 
     - name: Push ACG image to the acg branch
       uses: crazy-max/ghaction-github-pages@v3.1.0

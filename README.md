@@ -33,7 +33,7 @@
 
 ### 💪 我的技能
 
-![Java Badge](https://img.shields.io/badge/Java-B07219?logo=java&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-B07219?logo=openjdk&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-1A5762?logo=mysql&logoColor=fff&style=flat)

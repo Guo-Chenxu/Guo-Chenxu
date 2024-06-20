@@ -55,7 +55,7 @@
 <!-- just img 图片 -->
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/icon.png" /></div> -->
-<img src="https://www.loliapi.com/acg?id=157" /></div>
+<img src="https://www.loliapi.com/acg?id=813" /></div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />

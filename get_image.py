@@ -11,7 +11,7 @@ def download_image(url, save_path):
         print(f"下载图片时发生错误: {e.reason}")
 
 url = "https://www.loliapi.com/acg"
-save_directory = ".\img"
+save_directory = "./img"
 
 if not os.path.exists(save_directory):
     os.makedirs(save_directory)

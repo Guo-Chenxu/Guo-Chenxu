@@ -24,12 +24,12 @@ jobs:
       run: python get_image.py
     
     - name: Calculate Hash
-      run: md5sum img/*
+      run: md5sum acg-img/*
 
     - name: Push ACG image to the acg branch
       uses: crazy-max/ghaction-github-pages@v3.1.0
       with:
         target_branch: acg
-        build_dir: img
+        build_dir: acg-img
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

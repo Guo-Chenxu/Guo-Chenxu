@@ -1,6 +1,7 @@
 import os
 import urllib.request
 import random
+import shutil
 
 def download_image(url, save_path):
     full_path = os.path.join(save_path, "acg.png")
@@ -16,9 +17,11 @@ def download_image(url, save_path):
 # 似乎 github action 每次请求的图片都是同一张, 所以还是得用随机数
 url = f"https://www.loliapi.com/acg?id={random.randint(0, 999)}"
 print(f"图片链接: {url}")
-save_directory = "./img"
+save_directory = "./acg-img"
 
-if not os.path.exists(save_directory):
-    os.makedirs(save_directory)
+
+if os.path.exists(save_directory):
+    shutil.rmtree(save_directory)
+os.makedirs(save_directory)
 
 download_image(url, save_directory)

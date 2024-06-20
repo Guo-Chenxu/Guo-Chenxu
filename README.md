@@ -55,7 +55,12 @@
 <!-- just img 图片 -->
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/icon.png" /></div> -->
-<img src="https://www.loliapi.com/acg?id=157" /></div>
+<!-- <img src="https://www.loliapi.com/acg?id=157" /></div> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/acg/acg.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/acg/acg.png" />
+  <img alt="acg-img" src="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/acg/acg.png" />
+</picture>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />

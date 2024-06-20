@@ -1,0 +1,29 @@
+name: Update README ACG Image
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  acg-image:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Get ACG Image
+      run: python ./get_image.py
+
+    - name: Push ACG image to the acg branch
+      uses: crazy-max/ghaction-github-pages@v3.1.0
+      with:
+        target_branch: acg
+        build_dir: img
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

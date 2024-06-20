@@ -36,6 +36,7 @@
 ![Java Badge](https://img.shields.io/badge/Java-B07219?logo=openjdk&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=fff&style=flat)
+![Dart Badge](https://img.shields.io/badge/Dart-BA5000?logo=dart&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-1A5762?logo=mysql&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-BA5000?logo=mongodb&logoColor=fff&style=flat)
@@ -45,11 +46,11 @@
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Idea Badge](https://img.shields.io/badge/IDEA-000000?logo=Intellij%20IDEA&logoColor=fff&style=flat)
 ![Goland Badge](https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=fff&style=flat)
-![Pycharm Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat)
-![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
+<!-- ![Pycharm Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat) -->
 
 <!-- just img 图片 -->
 

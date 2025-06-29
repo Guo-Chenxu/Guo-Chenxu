@@ -21,7 +21,7 @@ jobs:
         python-version: '3.x'
 
     - name: Get ACG Image
-      run: python get_image.py
+      run: python scripts/git_image.py
     
     - name: Calculate Hash
       run: md5sum acg-img/*
